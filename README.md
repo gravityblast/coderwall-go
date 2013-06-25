@@ -1,6 +1,6 @@
 # Coderwall
 
-Coderwall API client for [go](http://golang.org/ Go lang).
+Coderwall API client for [go](http://golang.org/ "Go lang").
 
 ## Installation
 
