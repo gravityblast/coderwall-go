@@ -4,14 +4,14 @@ Coderwall API client for [go](http://golang.org/ "Go lang").
 
 ## Installation
 
-    go get github.com/pilu/coderwall
+    go get github.com/pilu/coderwall-go
 
 ## Usage
 
     package main
 
     import (
-      "github.com/pilu/coderwall.go"
+      "github.com/pilu/coderwall-go"
       "fmt"
       "flag"
       "os"
