@@ -41,6 +41,6 @@ Coderwall API client for [go](http://golang.org/ "Go lang").
       fmt.Printf("%s, %s (%s) - %d endorsement\n\n", profile.Username, profile.Name, profile.Location, profile.Endorsements)
       fmt.Printf("Badges (%d):\n\n", len(profile.Badges))
       for _, badge := range(profile.Badges) {
-        fmt.Printf("\t%s\n\t\t%s)\n\n", badge.Name, badge.Description)
+        fmt.Printf("\t%s\n\t\t%s\n\n", badge.Name, badge.Description)
       }
     }
