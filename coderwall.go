@@ -32,7 +32,7 @@ type Profile struct {
   }
 }
 
-func (c client)  PerformRequest(url string) (resp *http.Response, err error) {
+func (c client) PerformRequest(url string) (resp *http.Response, err error) {
   return c.httpClient.Get(url)
 }
 
