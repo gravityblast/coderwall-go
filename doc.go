@@ -1,6 +1,7 @@
 /*
 
-A client for the Coderwall API.
+A client for the Coderwall API (http://coderwall.com/api).
+
 
 Usage example:
 
